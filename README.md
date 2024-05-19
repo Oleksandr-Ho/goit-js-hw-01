@@ -1,1 +1,1 @@
-# goit-js-hw-01
+# Master of Computer Science
